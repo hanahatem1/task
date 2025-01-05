@@ -51,7 +51,7 @@ class RegisterPage extends StatelessWidget {
                   height: 15,
                 ),
                 const GenderSelection(),
-                Dropdown(),
+                const Dropdown(),
                 const SizedBox(
                   height: 15,
                 ),
